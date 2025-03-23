@@ -41,3 +41,9 @@ build/
 */*/.gitattributes
 */*/mvnw.cmd
 
+/*/.mvn/wrapper/maven-wrapper.properties
+/*/.gitattributes
+/*/.gitignore
+/*/mvnw
+/*/mvnw.cmd
+
